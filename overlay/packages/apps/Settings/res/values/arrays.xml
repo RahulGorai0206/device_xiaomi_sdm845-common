@@ -25,4 +25,8 @@
         <item>-1</item>
         <item>-1</item>
     </integer-array>
+
+    <!-- Maintainer info -->
+    <string name="config_maintainer_name" translatable="false">Rahul Gorai</string>
+    <string name="config_maintainer_link"  translatable="false">https://github.com/RahulGorai0206</string>
 </resources>
